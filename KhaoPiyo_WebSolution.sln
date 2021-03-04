@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaoPiyo_WebSolution", "KhaoPiyo_WebSolution\KhaoPiyo_WebSolution.csproj", "{6FE2DA74-3A63-4145-96C2-ABD092D535FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhaoPiyo_WebSolution.Tests", "KhaoPiyo_WebSolution.Tests\KhaoPiyo_WebSolution.Tests.csproj", "{1505546E-5D78-478D-955E-AFCACDBFADFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE2DA74-3A63-4145-96C2-ABD092D535FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE2DA74-3A63-4145-96C2-ABD092D535FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE2DA74-3A63-4145-96C2-ABD092D535FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE2DA74-3A63-4145-96C2-ABD092D535FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1505546E-5D78-478D-955E-AFCACDBFADFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1505546E-5D78-478D-955E-AFCACDBFADFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1505546E-5D78-478D-955E-AFCACDBFADFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1505546E-5D78-478D-955E-AFCACDBFADFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E587A5-E37F-4134-8C06-5C2DFE32F45F}
+	EndGlobalSection
+EndGlobal
